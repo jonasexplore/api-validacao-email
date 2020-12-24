@@ -1,0 +1,46 @@
+{
+  "coverage": "74.07%",
+  "expectCount": 27,
+  "actualCount": 20,
+  "files": {
+    "src/controllers/emailController.js": {
+      "expectCount": 4,
+      "actualCount": 4,
+      "undocumentLines": []
+    },
+    "src/models/email/Email.js": {
+      "expectCount": 6,
+      "actualCount": 6,
+      "undocumentLines": []
+    },
+    "src/models/email/EmailVerification.js": {
+      "expectCount": 8,
+      "actualCount": 3,
+      "undocumentLines": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    "src/routes/emailRoutes.js": {
+      "expectCount": 2,
+      "actualCount": 2,
+      "undocumentLines": []
+    },
+    "src/routes/index.js": {
+      "expectCount": 2,
+      "actualCount": 2,
+      "undocumentLines": []
+    },
+    "src/server.js": {
+      "expectCount": 5,
+      "actualCount": 3,
+      "undocumentLines": [
+        15,
+        16
+      ]
+    }
+  }
+}

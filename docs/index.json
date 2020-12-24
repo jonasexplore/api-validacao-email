@@ -1,0 +1,1248 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/controllers/emailController.js",
+    "content": "/**\r\n * Importanto o Router do express para gerenciar as rotas da aplicação.\r\n */\r\nconst { Router } = require(\"express\");\r\n/**\r\n * Importando a classe EmailValidation para implementar seus métodos.\r\n */\r\nconst EmailValidation = require(\"../models/email/EmailVerification\");\r\n\r\n/**\r\n * Essa função é responsável por montar o link de validação,\r\n * onde concatenará o URL_BASE do site, a rota e um hash que será\r\n * responsável por identificar o usuário e validar seu e-mail.\r\n * @param {String} route\r\n * @param {String} hash\r\n */\r\nfunction getAdress(route, hash) {\r\n  return `${process.env.BASE_URL}${route}${hash}`;\r\n}\r\n\r\n/**\r\n * Essa função instanciará nossa class EmailVerification passando\r\n * os dados necessários que são recebidos através da requisição http.\r\n * A função funciona de forma sincrona, pois, o serviço de e-mail pode\r\n * demorar algum tempo até ser concluído. Por fim, caso algum erro seja encontrado\r\n * será retornado no console e a requisição será encerrada com um\r\n * status 200.\r\n * @param {Request} req\r\n * @param {Response} res\r\n *\r\n * @return {Response} Será retornado em um arquivo no formato JSON.\r\n * @throw {error} Geralmente os erros estão relacionados a problemas de autenticação\r\n * com o servidor de emails.\r\n */\r\nfunction sendEmail(req, res) {\r\n  const { email } = req.body;\r\n\r\n  const emailValidation = new EmailValidation(\r\n    email,\r\n    getAdress(\"/api/user/validation/\", \"hash\")\r\n  );\r\n\r\n  emailValidation\r\n    .sendMail()\r\n    .catch((error) =>\r\n      console.log(\"Ops, tivemos um probleminha!\\nErro: \" + error.message)\r\n    );\r\n  res.json({\r\n    status: \"ok\",\r\n    message: \"Processo de envio realizado com sucesso. Agora é só aguardar.\",\r\n  });\r\n}\r\n\r\nmodule.exports = {\r\n  sendEmail,\r\n};\r\n",
+    "static": true,
+    "longname": "D:/pessoal/git/javascript/projects/validador-email/src/controllers/emailController.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "Router",
+    "memberof": "src/controllers/emailController.js",
+    "static": true,
+    "longname": "src/controllers/emailController.js~Router",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/controllers/emailController.js",
+    "importStyle": null,
+    "description": "Importanto o Router do express para gerenciar as rotas da aplicação.",
+    "lineNumber": 4,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "EmailValidation",
+    "memberof": "src/controllers/emailController.js",
+    "static": true,
+    "longname": "src/controllers/emailController.js~EmailValidation",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/controllers/emailController.js",
+    "importStyle": null,
+    "description": "Importando a classe EmailValidation para implementar seus métodos.",
+    "lineNumber": 8,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "getAdress",
+    "memberof": "src/controllers/emailController.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/controllers/emailController.js~getAdress",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/controllers/emailController.js",
+    "importStyle": null,
+    "description": "Essa função é responsável por montar o link de validação,\nonde concatenará o URL_BASE do site, a rota e um hash que será\nresponsável por identificar o usuário e validar seu e-mail.",
+    "lineNumber": 17,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "route",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "hash",
+        "description": ""
+      }
+    ],
+    "return": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "sendEmail",
+    "memberof": "src/controllers/emailController.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/controllers/emailController.js~sendEmail",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/controllers/emailController.js",
+    "importStyle": null,
+    "description": "Essa função instanciará nossa class EmailVerification passando\nos dados necessários que são recebidos através da requisição http.\nA função funciona de forma sincrona, pois, o serviço de e-mail pode\ndemorar algum tempo até ser concluído. Por fim, caso algum erro seja encontrado\nserá retornado no console e a requisição será encerrada com um\nstatus 200.",
+    "lineNumber": 35,
+    "unknown": [
+      {
+        "tagName": "@throw",
+        "tagValue": "{error} Geralmente os erros estão relacionados a problemas de autenticação\ncom o servidor de emails."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Request"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "req",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Response"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "res",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Response"
+      ],
+      "spread": false,
+      "description": "Será retornado em um arquivo no formato JSON."
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/models/email/Email.js",
+    "content": "/**\r\n * Variável responsável por importar os métodos e propriedades do componente nodemailer\r\n */\r\nconst nodemailer = require(\"nodemailer\");\r\n\r\n/**\r\n * Objeto contendo as configurações de login na\r\n * plataforma de emails escolhida.\r\n * @return {Object}\r\n */\r\nconst emailConfigProduction = {\r\n  host: process.env.EMAIL_HOST,\r\n  auth: {\r\n    user: process.env.EMAIL_USER,\r\n    pass: process.env.EMAIL_PASS,\r\n  },\r\n  secure: true,\r\n};\r\n\r\n/**\r\n * Função responsável por criar um conta de testes\r\n * no nodemailer para verificar seu funcionamento.\r\n * @param {*} account\r\n */\r\nconst emailConfigTest = (account) => ({\r\n  host: \"smtp.ethereal.email\",\r\n  auth: account,\r\n});\r\n\r\n/**\r\n * Função responsável por retornar as configurações de\r\n * acesso ao servidor de emails no ambiente de produção.\r\n * @return {Object}\r\n */\r\nasync function createEmailConfiguration() {\r\n  if (process.env.NODE_ENV === \"production\") {\r\n    return emailConfigProduction;\r\n  } else {\r\n    const account = await nodemailer.createTestAccount();\r\n    return emailConfigTest(account);\r\n  }\r\n}\r\n\r\n/**\r\n * A classe Email é responsável por fornecer o método\r\n * de transporte de email.\r\n */\r\n\r\nclass Email {\r\n  /**\r\n   * Esse método é responsável por receber as configurações\r\n   * de acesso de suas classes filhas e a partir disso\r\n   * realizar a comunicação com o servidor SMTP e proceder\r\n   * com o envio.\r\n   */\r\n  async sendMail() {\r\n    const configEmail = await createEmailConfiguration();\r\n    const transporter = nodemailer.createTransport(configEmail);\r\n    const info = await transporter.sendMail(this);\r\n    if (!process.env.NODE_ENV !== \"production\") {\r\n      console.log(\"URL: \", nodemailer.getTestMessageUrl(info));\r\n    }\r\n  }\r\n}\r\n\r\nmodule.exports = Email;\r\n",
+    "static": true,
+    "longname": "D:/pessoal/git/javascript/projects/validador-email/src/models/email/Email.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "nodemailer",
+    "memberof": "src/models/email/Email.js",
+    "static": true,
+    "longname": "src/models/email/Email.js~nodemailer",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/models/email/Email.js",
+    "importStyle": null,
+    "description": "Variável responsável por importar os métodos e propriedades do componente nodemailer",
+    "lineNumber": 4,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "emailConfigProduction",
+    "memberof": "src/models/email/Email.js",
+    "static": true,
+    "longname": "src/models/email/Email.js~emailConfigProduction",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/models/email/Email.js",
+    "importStyle": null,
+    "description": "Objeto contendo as configurações de login na\nplataforma de emails escolhida.",
+    "lineNumber": 11,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "type": {
+      "types": [
+        "{\"host\": *, \"auth\": *, \"secure\": boolean}"
+      ]
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "emailConfigTest",
+    "memberof": "src/models/email/Email.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/models/email/Email.js~emailConfigTest",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/models/email/Email.js",
+    "importStyle": null,
+    "description": "Função responsável por criar um conta de testes\nno nodemailer para verificar seu funcionamento.",
+    "lineNumber": 25,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "account",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 57,
+    "kind": "function",
+    "name": "createEmailConfiguration",
+    "memberof": "src/models/email/Email.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/models/email/Email.js~createEmailConfiguration",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/models/email/Email.js",
+    "importStyle": null,
+    "description": "Função responsável por retornar as configurações de\nacesso ao servidor de emails no ambiente de produção.",
+    "lineNumber": 35,
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": ""
+    },
+    "params": []
+  },
+  {
+    "__docId__": 58,
+    "kind": "class",
+    "name": "Email",
+    "memberof": "src/models/email/Email.js",
+    "static": true,
+    "longname": "src/models/email/Email.js~Email",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/models/email/Email.js",
+    "importStyle": null,
+    "description": "A classe Email é responsável por fornecer o método\nde transporte de email.",
+    "lineNumber": 49,
+    "interface": false
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "sendMail",
+    "memberof": "src/models/email/Email.js~Email",
+    "generator": false,
+    "async": true,
+    "static": false,
+    "longname": "src/models/email/Email.js~Email#sendMail",
+    "access": "public",
+    "description": "Esse método é responsável por receber as configurações\nde acesso de suas classes filhas e a partir disso\nrealizar a comunicação com o servidor SMTP e proceder\ncom o envio.",
+    "lineNumber": 56,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/models/email/EmailVerification.js",
+    "content": "/**\r\n * Variável responsável por importa a classe Email.\r\n */\r\nconst Email = require(\"./Email\");\r\n\r\n/**\r\n * Essa é uma classe específica para a verificação de emails.\r\n * Ela estancia os métodos de sua classe mãe Email e a partir disso\r\n * passa as propriedades necessárias para a utilização dos métodos.\r\n */\r\nclass EmailVerification extends Email {\r\n  /**\r\n   * O construtor irá receber o e-mail do destinatório e o link que será\r\n   * anexado ao corpo do e-mail para validar as informação do usuário.\r\n   * @param {String} email\r\n   * @param {String} link\r\n   */\r\n  constructor(email, link) {\r\n    super();\r\n    this.from = '\"Remetente do email\" <noreply@email.com.br>';\r\n    this.to = email;\r\n    this.subject = \"Verificação de Email\";\r\n    this.text = `Olá! Verifique seu email aqui: ${link}`;\r\n    this.html = `<h1>Olá!</h1> Verifique seu email aqui: <a href=\"${link}\">${link}</a>`;\r\n  }\r\n}\r\n\r\nmodule.exports = EmailVerification;\r\n",
+    "static": true,
+    "longname": "D:/pessoal/git/javascript/projects/validador-email/src/models/email/EmailVerification.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "variable",
+    "name": "Email",
+    "memberof": "src/models/email/EmailVerification.js",
+    "static": true,
+    "longname": "src/models/email/EmailVerification.js~Email",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/models/email/EmailVerification.js",
+    "importStyle": null,
+    "description": "Variável responsável por importa a classe Email.",
+    "lineNumber": 4,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "class",
+    "name": "EmailVerification",
+    "memberof": "src/models/email/EmailVerification.js",
+    "static": true,
+    "longname": "src/models/email/EmailVerification.js~EmailVerification",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/models/email/EmailVerification.js",
+    "importStyle": null,
+    "description": "Essa é uma classe específica para a verificação de emails.\nEla estancia os métodos de sua classe mãe Email e a partir disso\npassa as propriedades necessárias para a utilização dos métodos.",
+    "lineNumber": 11,
+    "interface": false,
+    "extends": [
+      "Email"
+    ]
+  },
+  {
+    "__docId__": 63,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/models/email/EmailVerification.js~EmailVerification",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/models/email/EmailVerification.js~EmailVerification#constructor",
+    "access": "public",
+    "description": "O construtor irá receber o e-mail do destinatório e o link que será\nanexado ao corpo do e-mail para validar as informação do usuário.",
+    "lineNumber": 18,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "email",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "link",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "__docId__": 64,
+    "kind": "member",
+    "name": "from",
+    "memberof": "src/models/email/EmailVerification.js~EmailVerification",
+    "static": false,
+    "longname": "src/models/email/EmailVerification.js~EmailVerification#from",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "member",
+    "name": "to",
+    "memberof": "src/models/email/EmailVerification.js~EmailVerification",
+    "static": false,
+    "longname": "src/models/email/EmailVerification.js~EmailVerification#to",
+    "access": "public",
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "member",
+    "name": "subject",
+    "memberof": "src/models/email/EmailVerification.js~EmailVerification",
+    "static": false,
+    "longname": "src/models/email/EmailVerification.js~EmailVerification#subject",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 67,
+    "kind": "member",
+    "name": "text",
+    "memberof": "src/models/email/EmailVerification.js~EmailVerification",
+    "static": false,
+    "longname": "src/models/email/EmailVerification.js~EmailVerification#text",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 68,
+    "kind": "member",
+    "name": "html",
+    "memberof": "src/models/email/EmailVerification.js~EmailVerification",
+    "static": false,
+    "longname": "src/models/email/EmailVerification.js~EmailVerification#html",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/routes/emailRoutes.js",
+    "content": "/**\r\n * Variável responsável por importar as rotas.\r\n */\r\nconst router = require(\"express\").Router();\r\n/**\r\n * Variável responsável por importar a controller de emails.\r\n */\r\nconst emailController = require(\"../controllers/emailController\");\r\n\r\nrouter.post(\"/\", emailController.sendEmail);\r\n\r\nmodule.exports = router;\r\n",
+    "static": true,
+    "longname": "D:/pessoal/git/javascript/projects/validador-email/src/routes/emailRoutes.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "variable",
+    "name": "router",
+    "memberof": "src/routes/emailRoutes.js",
+    "static": true,
+    "longname": "src/routes/emailRoutes.js~router",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/routes/emailRoutes.js",
+    "importStyle": null,
+    "description": "Variável responsável por importar as rotas.",
+    "lineNumber": 4,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "variable",
+    "name": "emailController",
+    "memberof": "src/routes/emailRoutes.js",
+    "static": true,
+    "longname": "src/routes/emailRoutes.js~emailController",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/routes/emailRoutes.js",
+    "importStyle": null,
+    "description": "Variável responsável por importar a controller de emails.",
+    "lineNumber": 8,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "src/routes/index.js",
+    "content": "/**\r\n * Variável responsável por criar as rotas.\r\n */\r\nconst router = require(\"express\").Router();\r\n/**\r\n * Variável responsável por implementar as rotas relacionadas ao e-mail.\r\n */\r\nconst emailRouter = require(\"./emailRoutes\");\r\n\r\nrouter.use(\"/api/email\", emailRouter);\r\n\r\nrouter.get(\"*\", (req, res) => {\r\n  res.status(404).json(\"Ops, router not found!\");\r\n});\r\n\r\nmodule.exports = router;\r\n",
+    "static": true,
+    "longname": "D:/pessoal/git/javascript/projects/validador-email/src/routes/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "variable",
+    "name": "router",
+    "memberof": "src/routes/index.js",
+    "static": true,
+    "longname": "src/routes/index.js~router",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/routes/index.js",
+    "importStyle": null,
+    "description": "Variável responsável por criar as rotas.",
+    "lineNumber": 4,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "variable",
+    "name": "emailRouter",
+    "memberof": "src/routes/index.js",
+    "static": true,
+    "longname": "src/routes/index.js~emailRouter",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email/src/routes/index.js",
+    "importStyle": null,
+    "description": "Variável responsável por implementar as rotas relacionadas ao e-mail.",
+    "lineNumber": 8,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "file",
+    "name": "src/server.js",
+    "content": "require(\"dotenv\").config();\r\n/**\r\n * Variável responsável por instanciar o express.\r\n */\r\nconst express = require(\"express\");\r\n/**\r\n * Variável responsável por permitir a comunicação através de arquivos JSON.\r\n */\r\nconst bodyParser = require(\"body-parser\");\r\n/**\r\n * Variável responsável por receber as rotas da aplicação.\r\n */\r\nconst router = require(\"./routes\");\r\n\r\nconst port = 3000;\r\nconst app = express();\r\n\r\napp.use(bodyParser.json());\r\napp.use(router);\r\n\r\napp.listen(port, () => console.log(`Server has started at port ${port}`));\r\n",
+    "static": true,
+    "longname": "D:/pessoal/git/javascript/projects/validador-email/src/server.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 76,
+    "kind": "variable",
+    "name": "express",
+    "memberof": "src/server.js",
+    "static": true,
+    "longname": "src/server.js~express",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email",
+    "importStyle": null,
+    "description": "Variável responsável por instanciar o express.",
+    "lineNumber": 5,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 77,
+    "kind": "variable",
+    "name": "bodyParser",
+    "memberof": "src/server.js",
+    "static": true,
+    "longname": "src/server.js~bodyParser",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email",
+    "importStyle": null,
+    "description": "Variável responsável por permitir a comunicação através de arquivos JSON.",
+    "lineNumber": 9,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "variable",
+    "name": "router",
+    "memberof": "src/server.js",
+    "static": true,
+    "longname": "src/server.js~router",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email",
+    "importStyle": null,
+    "description": "Variável responsável por receber as rotas da aplicação.",
+    "lineNumber": 13,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "variable",
+    "name": "port",
+    "memberof": "src/server.js",
+    "static": true,
+    "longname": "src/server.js~port",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "number"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 80,
+    "kind": "variable",
+    "name": "app",
+    "memberof": "src/server.js",
+    "static": true,
+    "longname": "src/server.js~app",
+    "access": "public",
+    "export": false,
+    "importPath": "validador-email",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "# API Rest para validação de E-mails\r\n\r\nProjeto da formação backend da Alura.\r\nEssa API foi desenvolvida em Nodejs, utilizando o express e nodemailer.\r\n",
+    "longname": "D:\\pessoal\\git\\javascript\\projects\\validador-email\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"validador-email\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"src/server.js\",\n  \"scripts\": {\n    \"start\": \"nodemon src/server.js\",\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [],\n  \"author\": \"Jonas Brito\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"body-parser\": \"^1.19.0\",\n    \"dotenv\": \"^8.2.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"express\": \"^4.17.1\",\n    \"nodemailer\": \"^6.4.17\"\n  },\n  \"devDependencies\": {\n    \"nodemon\": \"^2.0.6\"\n  }\n}\n",
+    "longname": "D:\\pessoal\\git\\javascript\\projects\\validador-email\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
